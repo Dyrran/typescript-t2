@@ -1,0 +1,12 @@
+{
+  "name": "typescript-t2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ts": "ts-node-dev --respawn carro.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
